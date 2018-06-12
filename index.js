@@ -9,7 +9,7 @@ import { ScrollView, Modal,TouchableHighlight,Text,Button,View,Dimensions } from
 const screenHeight = Dimensions.get('window').height;
 
 export default class ModalComponent extends Component {
-    render() {
+    render() { 
         return (
             <Modal
                 visible={this.props.isVisible}
