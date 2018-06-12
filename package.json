@@ -1,0 +1,23 @@
+{
+  "name": "react-native-awsome-modal",
+  "version": "1.0.0",
+  "description": "modal for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgekuttyjosephgkj/ReactNativeAwsomeModal.git"
+  },
+  "author": "georgekutty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgekuttyjosephgkj/ReactNativeAwsomeModal/issues"
+  },
+  "homepage": "https://github.com/georgekuttyjosephgkj/ReactNativeAwsomeModal#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-native": "^0.55.4"
+  }
+}
