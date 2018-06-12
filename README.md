@@ -11,7 +11,4 @@ import ModalComponent from 'react-native-awsome-modal';
         onPressCancelButton={() => this.setState({isModalVisible:false})} 
         onPressSubmitButton={() => alert("submit")}>
 
-        //your jsx content
-
-
 </ModalComponent>
