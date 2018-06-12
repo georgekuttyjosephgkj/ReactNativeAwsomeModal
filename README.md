@@ -10,5 +10,8 @@ import ModalComponent from 'react-native-awsome-modal';
         isVisible={this.state.isModalVisible}
         onPressCancelButton={() => this.setState({isModalVisible:false})} 
         onPressSubmitButton={() => alert("submit")}>
-        <Text>hai</Text>
+
+        //your jsx content
+
+
 </ModalComponent>
